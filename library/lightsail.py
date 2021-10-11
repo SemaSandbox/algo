@@ -186,6 +186,7 @@ instance:
 
 import time
 import traceback
+import pandas as pd
 
 try:
     import botocore
